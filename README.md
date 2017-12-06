@@ -1,3 +1,3 @@
 # methylationScripts
 
-Scripts used to process the mathylation alignment files
+Scripts used to process the methylation alignment files
